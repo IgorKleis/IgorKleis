@@ -6,7 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKleis&show_icons=true&theme=gruvbox)
 <br/>
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+ <br/>
 <h2 style="color:orange">Tecnologias que eu uso no meu dia <h2/>
 
 <div style="display:inline_block"><br/>
