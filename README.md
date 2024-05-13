@@ -5,8 +5,11 @@
 -💻 Se especializando no momento em front-end
 <br/>
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igorkleis@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/igor-kleis-418b73194)
+<div>
+ 
+ <a href="igorkleis@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ <a href="www.linkedin.com/in/igor-kleis-418b73194"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorKleis&show_icons=true&theme=gruvbox)
 <br/>
