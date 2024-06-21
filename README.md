@@ -2,8 +2,6 @@
 
 -📚 Estudante de Análise e Desenvolvimento de Sistemas
 <br/>
--💻 Se especializando no momento em front-end
-<br/>
 
 <div>
  
